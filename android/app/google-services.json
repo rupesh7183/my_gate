@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8370690413",
+    "project_id": "zehn-gate-security-mobile-app",
+    "storage_bucket": "zehn-gate-security-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8370690413:android:a5f31d8944883c508fa264",
+        "android_client_info": {
+          "package_name": "com.example.zehn_gate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8370690413-oopl8gsjj3aj77iglfu62rgo18hddie0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zehn_gate_app",
+            "certificate_hash": "fe4e8d7037a7427ee255577732c5a24270588ea6"
+          }
+        },
+        {
+          "client_id": "8370690413-a66e53gmgfvaaf01h4q4c462v84n76di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdVQ20SK55PR45q1U-92A6j63dGaD36E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8370690413-a66e53gmgfvaaf01h4q4c462v84n76di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
